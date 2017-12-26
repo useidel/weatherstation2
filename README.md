@@ -1,6 +1,6 @@
 # Android Things Weather Station sample - extended version
 
-This sample shows integration of multiple Android Things peripheral to build a connected Weather Station. It is based on the [Original Version] (https://github.com/androidthings/weatherstation) and has made use of the two remaining buttons as well (see below). 
+This sample shows integration of multiple Android Things peripheral to build a connected Weather Station. It is based on the [Original Version](https://github.com/androidthings/weatherstation) and has made use of the two remaining buttons as well (see below). 
 
 ## Pre-requisites
 
