@@ -35,7 +35,7 @@ adb shell am start com.example.androidthings.weatherstation2/.WeatherStationActi
 If you have everything set up correctly:
 - The segment display will show the current temperature in Celsius.
 - If the A button is pressed, the display will show the current pressure.
-- If the B button is pressed, the display will show the temperature in Fahrenheit
+- If the B button is pressed, the display will show the current temperature in Fahrenheit
 - If the C button is pressed, the display will show the word "TEST" and if a APA102 RGB Led strip is connected, it will display a rainbow of 7 pixels
 - If a Piezo Buzzer is connected, it will plays a funny sound on startup.
 - If a APA102 RGB Led strip is connected, it will display a rainbow of 7 pixels indicating the current pressure.
